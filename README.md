@@ -34,17 +34,6 @@ A JavaScript-based demo application showcasing real-time meeting functionalities
 - **Large Language Models (LLMs)**: Studying cutting-edge NLP techniques and model architectures.
 - **Quantum AI**: Exploring quantum computing's potential in revolutionizing AI models.
 
-## 📌 How to Pin Repositories
-
-To highlight your best repositories, you can pin them to your GitHub profile:
-
-1. Navigate to your [GitHub profile](https://github.com/ShazidNawasShovon).
-2. Scroll down to the "Popular repositories" section.
-3. Click on **"Customize your pins"**.
-4. Select the repositories you want to showcase.
-5. Click **"Save pins"**.
-
-For more details on pinning repositories, check out [GitHub's documentation](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile).
 
 ## 📬 Get in Touch
 
